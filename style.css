@@ -1,0 +1,11 @@
+.p1 {
+    text-indent: 30px;
+}
+.link-text {
+    text-decoration: none;
+    color: red;
+}
+.number {
+    vertical-align: super;
+    font-size: small;
+}
